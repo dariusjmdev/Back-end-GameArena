@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-252.27397.103">
+    <data-source name="gamearena" uuid="3ea29ecd-e010-4835-a1e0-03de33423257">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>darius</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
